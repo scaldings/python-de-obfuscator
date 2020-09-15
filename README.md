@@ -6,3 +6,4 @@ The main loop is pretty self-explanatory, so there is probably no need to explai
 
 ## Future:
 Well, unlike the Java obfuscator, I see some pontential in this one. Might actually work on it later.
+I might also add more characters, since some are just not added, the program might throw an error.
